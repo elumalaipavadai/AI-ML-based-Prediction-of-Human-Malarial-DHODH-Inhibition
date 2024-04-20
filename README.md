@@ -8,7 +8,7 @@ The solution workflow begins with DHODH data collation and preprocessing and fea
 
 ## Solution Description
 
-![Workflow]([path/to/your/image.png](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition/blob/main/Malaria_workflow.png)
+![Workflow](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition/blob/main/Malaria_workflow.png)
 
 The solution involves several key steps as explained in the workflow above:
 
