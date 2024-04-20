@@ -8,6 +8,8 @@ The solution workflow begins with DHODH data collation and preprocessing and fea
 
 ## Solution Description
 
+![Workflow]([path/to/your/image.png](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition/blob/main/Malaria_workflow.png)
+
 The solution involves several key steps as explained in the workflow above:
 
 1. **Data Collection and Preprocessing**: Obtain data from the ChEMBL for malaria drug target Dihydroorotate Dehydrogenase (CHEMBL3486) and preprocess it using Pandas and Numpy.
